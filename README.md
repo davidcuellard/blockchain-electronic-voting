@@ -8,4 +8,4 @@ Bournemouth, United Kingdom
 
 # Model
 
-![image](https://github.com/davidcuellard/js-ecommerce/blob/main/media/gif.gif?raw=true)
+![image]([https://github.com/davidcuellard/js-ecommerce/blob/main/media/gif.gif?raw=true](https://github.com/davidcuellard/blockchain-verify/blob/main/media/BN-Model.jpg?raw=true)https://github.com/davidcuellard/blockchain-verify/blob/main/media/BN-Model.jpg?raw=true)
