@@ -2,9 +2,6 @@
 
 ## Education purposes
 Author: David Cuellar
-Dept. Computing & Informatics
-Bournemouth University
-Bournemouth, United Kingdom
 
 # Model
 
